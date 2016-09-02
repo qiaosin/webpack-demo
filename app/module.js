@@ -1,0 +1,1 @@
+module.exports = 'It works from moduffffle.js.1111111111111'
